@@ -1,0 +1,29 @@
+html, body, p, h1, h2, h3, h4, h5, h6, form, input, textarea, select, button, fieldset, legend, img, ul, ol, li, dl, dt, dd, th, td, pre, blockquote { margin: 0; padding: 0; }
+body { color: #333; background: #fff; font-size: 12px; }
+body, button, input, select, textarea, h1, h2, h3, h4, h5, h6 { font-size: 12px; font-family: 'Microsoft YaHei','宋体',Verdana, Arial, sans-serif; }
+img, fieldset { border: 0; vertical-align: middle; }
+textarea { word-wrap: break-word; word-break: break-all; resize: none; }
+li { list-style: none; }
+img { border: none; }
+a { text-decoration: none; color: #333; }
+    a:hover { text-decoration: underline; }
+    a:focus { outline: none; }
+.o_hidden { overflow: hidden; text-overflow: ellipsis; }
+.hide { display: none; }
+.block { display: block; }
+.fleft { float: left; }
+.fright { float: right; }
+.clear { clear: both; }
+.relative { position: relative; }
+.absolute { position: absolute; }
+.fixed { position: fixed; }
+.container { width: 1000px; margin: 0px auto; }
+.layout_main { width: 800px; }
+.layout_side { width: 200px; }
+.ab_center { top: 0px; bottom: 0px; left: 0px; right: 0px; margin: auto; }
+.require { color: #f00; margin: 0px 5px; }
+/*头部*/
+
+/*底部*/
+
+/*侧边导航*/

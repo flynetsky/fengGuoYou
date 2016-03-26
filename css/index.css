@@ -1,0 +1,10 @@
+body{
+	
+}
+
+.wrap .w800{
+	background-color: #ccc;
+	width:800px;
+	text-align:center;
+	margin:0 auto;
+}
